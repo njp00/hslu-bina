@@ -1,0 +1,3 @@
+# Dev-only extras (not needed for the Streamlit Cloud deploy).
+-r requirements.txt
+pytest>=8.0

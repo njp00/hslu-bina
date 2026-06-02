@@ -1,0 +1,18 @@
+{
+  "venvPath": ".",
+  "venv": ".venv",
+  "typeCheckingMode": "basic",
+  "reportMissingModuleSource": "none",
+  "executionEnvironments": [
+    {
+      "root": "src",
+      "reportArgumentType": "none",
+      "reportAttributeAccessIssue": "none",
+      "reportCallIssue": "none",
+      "reportReturnType": "none",
+      "reportOperatorIssue": "none",
+      "reportIndexIssue": "none",
+      "reportUnhashable": "none"
+    }
+  ]
+}
